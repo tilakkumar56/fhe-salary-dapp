@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\kumar\\OneDrive\\Desktop\\fhe-salary-dapp\\contracts\\PrivateSalaryReveal.sol": {
+      "lastModificationDate": 1762540337890,
+      "contentHash": "16ea513252fadab19c623960e724889c",
+      "sourceName": "contracts/PrivateSalaryReveal.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "PrivateSalaryReveal"
+      ]
+    }
+  }
+}
